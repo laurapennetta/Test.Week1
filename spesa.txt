@@ -1,0 +1,4 @@
+2021/07/09;Viaggio;Pantaloni e Magliette;390
+2021/07/10;Alloggio;Pane e Pizza;450
+2021/07/11;Vitto;Computer;1200
+2021/07/12;Altro;Televisore;2600
